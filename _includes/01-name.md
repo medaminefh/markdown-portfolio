@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Med Amine Fh here 👋
+## A self-taught web developer
+###### Hire ME 
